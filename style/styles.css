@@ -13,6 +13,7 @@ body {
     flex-direction: column;
     text-align: center;
     margin: 0;
+    height: 90vh;
 }
 a {
     text-decoration: none;
